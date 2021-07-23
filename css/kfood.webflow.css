@@ -1,0 +1,361 @@
+.div-block {
+  width: 1920px;
+  height: 1045px;
+}
+
+.div-block-2 {
+  width: 1920px;
+  height: 1045px;
+}
+
+.sec {
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: auto;
+  height: auto;
+  padding-top: 0px;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -o-object-fit: fill;
+  object-fit: fill;
+}
+
+.image {
+  position: absolute;
+  z-index: 1;
+}
+
+.image-2 {
+  position: relative;
+  max-width: none;
+}
+
+.image-3 {
+  position: absolute;
+  z-index: 1;
+  max-height: 100%;
+  max-width: none;
+  margin-top: 89px;
+  margin-left: 60px;
+}
+
+.image-4 {
+  position: absolute;
+  z-index: 2;
+  max-height: 100%;
+  max-width: none;
+}
+
+.image-5 {
+  position: absolute;
+  left: auto;
+  top: auto;
+  right: 0%;
+  bottom: 0%;
+  z-index: 1;
+}
+
+.image-6 {
+  position: absolute;
+  z-index: 1;
+  height: auto;
+  max-width: none;
+  margin-left: 68px;
+}
+
+.image-7 {
+  width: 100%;
+  height: 100%;
+  max-width: none;
+}
+
+.image-8 {
+  padding-top: 100px;
+  padding-bottom: 40px;
+}
+
+.div-block-3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 90%;
+  padding-bottom: 100px;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.image-9 {
+  width: 30%;
+  max-width: none;
+}
+
+.image-10 {
+  width: 30%;
+}
+
+.image-11 {
+  width: 30%;
+}
+
+.sec._3 {
+  width: 100vw;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+}
+
+.image-12 {
+  width: 100%;
+  max-width: none;
+}
+
+.image-13 {
+  width: 100%;
+  max-width: none;
+}
+
+.div-block-4 {
+  width: 50%;
+}
+
+.div-block-5 {
+  width: 50%;
+}
+
+.col {
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  overflow: hidden;
+  width: 50%;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.image-14 {
+  position: relative;
+  width: 100%;
+}
+
+.image-15 {
+  position: relative;
+  bottom: auto;
+  width: 70%;
+}
+
+.image-15._2 {
+  width: 90%;
+  padding-top: 23px;
+}
+
+.div-block-6 {
+  position: absolute;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 70%;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: start;
+  -webkit-align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
+}
+
+.fsec {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.image-16 {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.div-block-8 {
+  display: none;
+}
+
+@media screen and (max-width: 479px) {
+  .div-block-7 {
+    display: none;
+  }
+
+  .div-block-8 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: start;
+    -webkit-justify-content: flex-start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    grid-auto-columns: 1fr;
+    -ms-grid-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+    -ms-grid-rows: auto auto;
+    grid-template-rows: auto auto;
+  }
+
+  .div-block-9 {
+    display: block;
+    -webkit-box-pack: start;
+    -webkit-justify-content: flex-start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+    -webkit-box-align: start;
+    -webkit-align-items: flex-start;
+    -ms-flex-align: start;
+    align-items: flex-start;
+  }
+
+  .div-block-10 {
+    position: relative;
+    width: 100%;
+    height: 100%;
+  }
+
+  .image-17 {
+    position: relative;
+    left: 0%;
+    top: 0%;
+    right: auto;
+    bottom: auto;
+    padding: 18px;
+  }
+
+  .div-block-11 {
+    position: absolute;
+    left: 0%;
+    top: 0%;
+    right: auto;
+    bottom: auto;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    padding: 30px 0px 0px 18px;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+  }
+
+  .div-block-11._22 {
+    width: 100%;
+    padding-left: 0px;
+  }
+
+  .image-18 {
+    width: 100%;
+    height: auto;
+  }
+
+  .image-19 {
+    margin-left: -18px;
+    padding-top: 31px;
+    padding-left: 0px;
+  }
+
+  .image-19._22 {
+    margin-left: 0px;
+    padding-top: 80px;
+    padding-right: 18px;
+    padding-left: 18px;
+  }
+
+  .div-block-12 {
+    padding-top: 0px;
+  }
+
+  .image-20 {
+    padding-top: 60px;
+    padding-bottom: 80px;
+  }
+
+  .image-21 {
+    margin-top: 60px;
+  }
+
+  .image-22 {
+    margin-top: 60px;
+  }
+
+  .image-23 {
+    padding: 63px 24px;
+  }
+
+  .image-24 {
+    width: 100vw;
+  }
+}
